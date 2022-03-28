@@ -10,3 +10,8 @@ To contact me,please follow my profile page to get more info about the informati
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=Core2002&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true" alt="Core2002's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core2002&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
 | ------------- | ------------- |
+
+**⚡️ GPG** 
+
+`0xE6579AE0BB9771BA`
+`0x9BB12B3CF02A3675`
