@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 This is Core2002, a high school student from HuBei , China.
 
