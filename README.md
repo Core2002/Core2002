@@ -4,7 +4,7 @@ This is Core2002, currently enrolled in a university in Hubei, China.
 
 Currently, I am majoring in Java and Kotlin, but I'm also proficient in other programming languages. 🤗
 
-You're welcome to visit my ["homepage"](https://space.bilibili.com/30924239) or ["blog"](https://blog.fifu.fun) to learn more about me.
+You're welcome to visit my ['homepage'](https://space.bilibili.com/30924239) or ['blog'](https://blog.fifu.fun) to learn more about me.
 
 For any inquiries or to contact me, please refer to my profile page for information on my social accounts and email addresses.
 
